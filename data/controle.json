@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2,
+    "tipo": "receita",
+    "valor": 2400.0,
+    "descricao": "Pagamento Mensal",
+    "categoria": "Salário",
+    "created_at": "2025-08-28T00:24:08"
+  },
+  {
+    "id": 3,
+    "tipo": "despesa",
+    "valor": 1000.0,
+    "descricao": "Compras do Mês",
+    "categoria": "Alimentação",
+    "created_at": "2025-09-01T20:32:46"
+  }
+]
