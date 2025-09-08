@@ -80,6 +80,7 @@ Permitir que um usuário registre, edite, exclua e visualize suas transações f
 1. Clone o repositório:
 
 git clone https://github.com/Andresdo23/controle-financeiro.git
+
 cd controle-financeiro
 
 2. Instale as dependências:
