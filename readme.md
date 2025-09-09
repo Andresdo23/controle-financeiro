@@ -26,7 +26,7 @@ Permitir que um usuário registre, edite, exclua e visualize suas transações f
 | André Silva | Backend | Persistência de dados, geração de IDs e tratamento de erros |
 | Natan Aguine | Frontend | Interface Streamlit: formulários, tabela, filtros e métricas |
 | Thayná Stephanie | Testes | Casos de teste e validação de funcionalidades |
-| Integrante 6 | Integração | Deploy e execução da aplicação, exportação de dados |
+| Francisca Nilcilany | Integração | Deploy e execução da aplicação, exportação de dados |
 
 ---
 
