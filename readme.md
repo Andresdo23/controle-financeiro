@@ -17,7 +17,7 @@ Permitir que um usuário registre, edite, exclua e visualize suas transações f
 
 ---
 
-##  Papéis e Responsabilidades (6 integrantes)
+##  Papéis e Responsabilidades
 
 | Integrante | Papel | Responsabilidades |
 |------------|-------|-----------------|
